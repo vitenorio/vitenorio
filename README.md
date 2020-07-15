@@ -1,6 +1,7 @@
 <h3>Hi there ✌️</h3>
+
 <ul>
-  <li> Mobile and web developer at @outsmartdigital working with <strong>React Native, React, Styled Components</strong> </li>
+  <li> Mobile and web developer at outsmart working with <strong>React Native, React, Styled Components</strong> and more. </li>
   <li> Studying ux/ui, node, android and ios </li>
   <li> Techs: 
    <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" width="24" height="24"/>
