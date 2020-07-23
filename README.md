@@ -14,4 +14,5 @@
 
 ![vitenorio's github stats](https://github-readme-stats.vercel.app/api?username=vitenorio&show_icons=true&bg_color=2F2E41&text_color=F6F6F6&title_color=6FCF97&icon_color=50FF99&hide=["issues"])
 
-<p> <img src="https://komarev.com/ghpvc/?username=vitenorio" alt="Vitória Tenório" /> </p>
+
+<p> <img src="https://komarev.com/ghpvc/?username=vitenorio&color=3A9D64&label=Profile+views+and+bots+views" alt="Vitória Tenório" /> </p>
