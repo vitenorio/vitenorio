@@ -14,4 +14,4 @@
 
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=vitenorio&show_icons=true&bg_color=2F2E41&text_color=F6F6F6&title_color=6FCF97&icon_color=50FF99&hide=issues"/>
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitenorio&layout=compact&bg_color=2F2E41&text_color=F6F6F6&title_color=6FCF97&icon_color=50FF99"/>
+<!-- <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitenorio&layout=compact&bg_color=2F2E41&text_color=F6F6F6&title_color=6FCF97&icon_color=50FF99"/> !-->
